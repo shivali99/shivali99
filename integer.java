@@ -4,7 +4,7 @@ import java.util.*;
 class A
 {
      
-     static void numbersWith3Divisors(int n)
+     static void numbers With >3 Divisors(int n)
     {
         boolean[] prime = new boolean[n+1];
         Arrays.fill(prime, true);
